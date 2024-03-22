@@ -1,2 +1,2 @@
 # .github
-Mouse Pointer PvP game
+Profile for org will go here
